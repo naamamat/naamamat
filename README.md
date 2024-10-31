@@ -38,4 +38,3 @@ Developed an interactive Arkanoid-style game in Java, utilizing Object-Oriented 
 I’m always open to collaborating on projects or discussing software development!  
 
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/naama-matzliach)
-- ⚡ Fun fact: I once developed an Arkanoid game from scratch in Java!
